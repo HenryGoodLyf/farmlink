@@ -1,0 +1,6 @@
+{
+  "name": "FarmLink NG",
+  "description": "Free mobile-first Nigerian agricultural marketplace connecting local farmers, consumers, and wholesale food distributors with zero registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
